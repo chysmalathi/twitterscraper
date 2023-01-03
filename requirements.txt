@@ -13,3 +13,5 @@ scikit-learn==1.2.0
 wordcloud==1.8.2.2
 seaborn==0.11.2
 spacy==3.4.3
+spacy-legacy==3.0.10
+spacy-loggers==1.0.4
